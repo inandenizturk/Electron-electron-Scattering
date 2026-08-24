@@ -193,7 +193,7 @@ def draw_arrow(ax, p0, p1, color, lw=2.2, ls="-", z=5):
     )
 
 
-# ============================================================== FIGURE KURULUMU
+# ============================================================== FIGURE SETUP
 fig = plt.figure(figsize=(13.2, 7.4), dpi=140, facecolor=COL_BG)
 gs = fig.add_gridspec(
     3, 3, width_ratios=[2.3, 2.3, 1.35], height_ratios=[0.16, 1, 1],
