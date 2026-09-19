@@ -1,3 +1,4 @@
+<img width="1398" height="716" alt="Screenshot 2026-09-20 at 01 33 48" src="https://github.com/user-attachments/assets/527e99e1-af7b-4245-95c5-7e55b8430f4c" />
 # Electron-Electron Scattering
 
 A Python animation of two identical electrons scattering under mutual Coulomb
