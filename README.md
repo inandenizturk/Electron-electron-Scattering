@@ -1,3 +1,4 @@
+<img width="1050" height="580" alt="electron_scattering" src="https://github.com/user-attachments/assets/f3d2f243-fa9a-4096-8944-6367abd3bb06" />
 <img width="1398" height="853" alt="Screenshot 2026-09-20 at 07 04 45" src="https://github.com/user-attachments/assets/299dc920-0170-447a-bfbf-a7aaa3cafcea" />
 
 # Electron-Electron Scattering
